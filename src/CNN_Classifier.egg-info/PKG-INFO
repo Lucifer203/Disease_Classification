@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: CNN_Classifier
+Version: 0.0.0
+Summary: A python package for CNN app
+Home-page: https://github.com/Lucifer203/Disease_Classification
+Author: Lucifer203
+Author-email: adarshghimire10@gmail.com
+Description-Content-Type: text/markdown
+
+# Disease_Classification
+Kidney-Disease-Classification-MLflow-DVC
