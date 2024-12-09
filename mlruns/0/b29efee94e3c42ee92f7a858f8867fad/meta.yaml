@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucifer/Documents/Disease_Classification/mlruns/0/b29efee94e3c42ee92f7a858f8867fad/artifacts
+end_time: 1723441957776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b29efee94e3c42ee92f7a858f8867fad
+run_name: bemused-swan-26
+run_uuid: b29efee94e3c42ee92f7a858f8867fad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723441952954
+status: 3
+tags: []
+user_id: lucifer

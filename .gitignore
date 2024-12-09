@@ -2,3 +2,4 @@
 /artifact*
 /logs
 *__pycache__
+*.env

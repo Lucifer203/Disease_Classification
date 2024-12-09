@@ -38,3 +38,15 @@ source env_name/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+### dagshub:
+
+```bash
+
+export  MLFLOW_TRACKING_URI=https://dagshub.com/adarshghimire10/Disease_Classification.mlflow
+
+export MLFLOW_TRACKING_USERNAME=adarshghimire10
+
+export MLFLOW_TRACKING_PASSWORD=5a8c90eae9bef971a846e7f1d614aa58370fc271
+
+```

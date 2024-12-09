@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucifer/Documents/Disease_Classification/mlruns/0/6408ddb1d5f24127995f9542b919ac4c/artifacts
+end_time: 1723441557678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6408ddb1d5f24127995f9542b919ac4c
+run_name: welcoming-slug-577
+run_uuid: 6408ddb1d5f24127995f9542b919ac4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723441553419
+status: 3
+tags: []
+user_id: lucifer
